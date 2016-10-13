@@ -41,8 +41,7 @@ function createtempalte(data)
     var heading=data.heading;
     var content=data.content;
 
-var htmltemplate=`
-    <!DOCTYPE HTML>
+var htmltemplate=
 <html>
     <head>
         <title>
